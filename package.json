@@ -1,0 +1,45 @@
+{
+  "name": "@fooxly/babel-preset",
+  "version": "1.0.0",
+  "description": "The default Babel preset for Fooxly projects.",
+  "keywords": [
+		"fooxly",
+		"code",
+    "babel",
+    "preset",
+    "optional",
+    "chaining",
+    "module",
+    "resolver",
+    "plugin",
+    "src",
+    "babel"
+	],
+  "author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com)",
+  "homepage": "https://github.com/Fooxly/babel-preset",
+  "license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Fooxly/babel-preset.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Fooxly/babel-preset/issues",
+		"email": "bugs@fooxly.com"
+	},
+  "main": "index.js",
+	"engines": {
+		"pnpm": "^4",
+		"node": "^10"
+	},
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-optional-chaining": "7.6.0",
+    "@babel/preset-env": "^7.6.3",
+    "babel-plugin-module-resolver": "3.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4"
+  }
+}
