@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "The default Babel preset for Fooxly projects.",
   "keywords": [
-		"fooxly",
-		"code",
+    "fooxly",
+    "code",
     "babel",
     "preset",
     "optional",
@@ -12,25 +12,23 @@
     "module",
     "resolver",
     "plugin",
-    "src",
-    "babel"
-	],
+    "src"
+  ],
   "author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com)",
   "homepage": "https://github.com/Fooxly/babel-preset",
   "license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Fooxly/babel-preset.git"
-	},
-	"bugs": {
-		"url": "https://github.com/Fooxly/babel-preset/issues",
-		"email": "bugs@fooxly.com"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fooxly/babel-preset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fooxly/babel-preset/issues",
+    "email": "bugs@fooxly.com"
+  },
   "main": "index.js",
-	"engines": {
-		"pnpm": "^4",
-		"node": "^10"
-	},
+  "engines": {
+    "node": "^10"
+  },
   "scripts": {
     "test": "cd test && node ."
   },
