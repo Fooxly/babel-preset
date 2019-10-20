@@ -3,7 +3,6 @@
 The default Babel preset for [Fooxly](https://www.fooxly.com) projects.
 
 [![npm version](https://img.shields.io/npm/v/@fooxly/babel-preset.svg?style=flat)](https://www.npmjs.com/package/@fooxly/babel-preset)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@fooxly/babel-preset.svg)
 
 ## :rocket:&nbsp; Powered By
 
