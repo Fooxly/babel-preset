@@ -31,10 +31,10 @@ const { code } = transformSync(source, {
 })
 
 if (code !== snapshot) {
-  console.error('Error: Invalid Babel transform')
+  console.error('\x1b[31mError: \x1b[37mInvalid Babel transform')
   console.error('-------------------------------------------------')
-  console.error(`Expected:\n-------------------------------------------------\n${snapshot}\n-------------------------------------------------`)
-  console.error(`Recieved:\n-------------------------------------------------\n${code}\n-------------------------------------------------`)
+  console.error(`\x1b[33mExpected:\x1b[37m\n-------------------------------------------------\n${snapshot}\n-------------------------------------------------`)
+  console.error(`\x1b[33mRecieved:\x1b[37m\n-------------------------------------------------\n${code}\n-------------------------------------------------`)
   return process.exit(1)
 }
 
