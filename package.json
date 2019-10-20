@@ -1,6 +1,6 @@
 {
   "name": "@fooxly/babel-preset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The default Babel preset for Fooxly projects.",
   "keywords": [
     "fooxly",
@@ -27,7 +27,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": "^10"
+    "node": ">=10"
   },
   "scripts": {
     "test": "cd test && node ."
