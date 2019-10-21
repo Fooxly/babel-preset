@@ -24,12 +24,6 @@ npm install --save-dev @fooxly/babel-preset
 yarn add -D @fooxly/babel-preset
 ```
 
-### using pnpm
-
-```sh
-pnpm add -D @fooxly/babel-preset
-```
-
 ## :triangular_ruler:&nbsp; Usage
 
 ### using .babelrc
