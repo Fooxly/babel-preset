@@ -1,6 +1,6 @@
 # Fooxly Babel Preset
 
-The default Babel preset for [Fooxly](https://www.fooxly.com) projects.
+The default [Babel](https://babeljs.io/) preset for [Fooxly](https://www.fooxly.com) projects.
 
 [![npm version](https://img.shields.io/npm/v/@fooxly/babel-preset.svg?style=flat)](https://www.npmjs.com/package/@fooxly/babel-preset)
 

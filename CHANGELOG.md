@@ -22,9 +22,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2019-10-18
 ### Added
-- The default babel preset [Fooxly] uses
+- The default [Babel] preset [Fooxly] uses
 
-[Fooxly]: https://www.fooxly.com/
 [README.md]: README.md
 [package.json]: package.json
+[Babel]: https://babeljs.io/
+[Fooxly]: https://www.fooxly.com/
 [pnpm]: https://github.com/pnpm/pnpm
+
+[1.0.1]: https://github.com/Fooxly/babel-preset/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/Fooxly/babel-preset/releases/tag/v1.0.0
