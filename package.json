@@ -1,6 +1,6 @@
 {
   "name": "@fooxly/babel-preset",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The default Babel preset for Fooxly projects.",
   "keywords": [
     "fooxly",
@@ -33,9 +33,9 @@
     "test": "cd test && node ."
   },
   "dependencies": {
-    "@babel/plugin-proposal-optional-chaining": ">=7.6.0",
-    "@babel/preset-env": ">=7.6.3",
-    "babel-plugin-module-resolver": ">=3.2.0"
+    "@babel/plugin-proposal-optional-chaining": "^7.6.0",
+    "@babel/preset-env": "^7.6.3",
+    "babel-plugin-module-resolver": "^3.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4"
