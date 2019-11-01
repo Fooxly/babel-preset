@@ -1,29 +1,8 @@
 const { transformSync } = require('@babel/core')
 const preset = require('..')
 
-const source = `
-import testComponent from 'components/test'
-
-const test = { foo: { bar: 'test' } }
-const result = foo?.bar
-`.trim()
-
-const snapshot = `
-"use strict";
-
-var _test = _interopRequireDefault(require("./src/components/test"));
-
-var _foo;
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
-
-var test = {
-  foo: {
-    bar: 'test'
-  }
-};
-var result = (_foo = foo) === null || _foo === void 0 ? void 0 : _foo.bar;
-`.trim()
+const source = require('./source')
+const snapshot = require('./snapshot')
 
 const { code } = transformSync(source, {
 	babelrc: false,
