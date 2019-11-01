@@ -1,6 +1,6 @@
 {
   "name": "@fooxly/babel-preset",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The default Babel preset for Fooxly projects.",
   "keywords": [
     "fooxly",
