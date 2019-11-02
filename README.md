@@ -6,13 +6,18 @@ The default [Babel](https://babeljs.io/) preset for [Fooxly](https://www.fooxly.
 
 ## :rocket:&nbsp; Powered By
 
+- [core-js@3](https://www.npmjs.com/package/core-js)
+- [regenerator-runtime](https://www.npmjs.com/package/regenerator-runtime)
 - [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)
+- [@babel/plugin-proposal-class-properties](https://www.npmjs.com/package/@babel/plugin-proposal-class-properties)
 - [@babel/plugin-proposal-optional-chaining](https://www.npmjs.com/package/@babel/plugin-proposal-optional-chaining)
 - [babel-plugin-module-resolver](https://www.npmjs.com/package/babel-plugin-module-resolver) (configured for all `.js`, `.jsx` & `.json` files in `./src`)
 
 ## ❤&nbsp; Support us
 
-> <span style="color:#32CD32">**40%**</span> of the revenue made from the support you give us, will be donated to a [charity](https://teamtrees.org)
+> About **40%** of your donation goes to one of the charities we support. For further information or questions please visit [our website](https://www.fooxly.com/charity) or contact us via [charity@fooxly.com](mailto:charity@fooxly.com).
+
+[![BuyMeACoffee](https://developer.fooxly.com/general/assets/images/buymeacoffee.png)](https://www.buymeacoffee.com/fooxly)
 
 <p>
   <a title="BuyMeACoffee" href="https://www.buymeacoffee.com/fooxly">
