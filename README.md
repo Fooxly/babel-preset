@@ -17,9 +17,17 @@ The default [Babel](https://babeljs.io/) preset for [Fooxly](https://www.fooxly.
 
 > About **40%** of your donation goes to one of the charities we support. For further information or questions please visit [our website](https://www.fooxly.com/charity) or contact us via [charity@fooxly.com](mailto:charity@fooxly.com).
 
-[![BuyMeACoffee](https://developer.fooxly.com/general/assets/images/buymeacoffee.png)](https://www.buymeacoffee.com/fooxly)
-[![Patreon](https://developer.fooxly.com/general/assets/images/patreon.png)](https://www.patreon.com/fooxly)
-[![PayPal](https://developer.fooxly.com/general/assets/images/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GEYSYZFXV9GE)
+<p>
+  <a title="BuyMeACoffee" href="https://www.buymeacoffee.com/fooxly">
+    <img src="https://developer.fooxly.com/general/assets/images/buymeacoffee.png" alt="BuyMeACoffee" width="25%" style="max-width: 180px" />
+  </a>&nbsp;&nbsp;
+  <a title="Patreon" href="https://www.patreon.com/fooxly">
+    <img src="https://developer.fooxly.com/general/assets/images/patreon.png" alt="Patreon" width="25%" style="max-width: 180px"/>
+  </a>&nbsp;&nbsp;
+  <a title="PayPal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GEYSYZFXV9GE">
+    <img src="https://developer.fooxly.com/general/assets/images/paypal.png" alt="PayPal" width="25%" style="max-width: 180px" />
+  </a>
+</p>
 
 <br/>
 
