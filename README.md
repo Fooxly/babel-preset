@@ -13,7 +13,7 @@ The default [Babel](https://babeljs.io/) preset for [Fooxly](https://www.fooxly.
 - [@babel/plugin-proposal-optional-chaining](https://www.npmjs.com/package/@babel/plugin-proposal-optional-chaining)
 - [babel-plugin-module-resolver](https://www.npmjs.com/package/babel-plugin-module-resolver) (configured for all `.js`, `.jsx` & `.json` files in `./src`)
 
-## ❤&nbsp; Support us
+## :heart:&nbsp; Support us
 
 > About **40%** of your donation goes to one of the charities we support. For further information or questions please visit [our website](https://www.fooxly.com/charity) or contact us via [charity@fooxly.com](mailto:charity@fooxly.com).
 
