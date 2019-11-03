@@ -65,15 +65,6 @@ yarn add -D @fooxly/babel-preset
 ...
 ```
 
-### using React Native
+### using React or React Native
 
-Make sure to check out the README of the [Metro Babel preset](https://www.npmjs.com/package/metro-react-native-babel-preset) in order to use the latest available React Native technologies.
-
-```json
-{
-  "presets": [
-    "module:metro-react-native-babel-preset",
-    "@fooxly/babel-preset"
-  ]
-}
-```
+Check out [@fooxly/babel-preset-react](https://www.npmjs.com/package/@fooxly/babel-preset-react).
