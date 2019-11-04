@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.1.0] - 2019-11-04
+### Added
+- Support for [Export From](https://babeljs.io/docs/en/next/babel-plugin-proposal-export-default-from.html)
+- Tests for `export ... from`
+- More keywords to [package.json]
+
 ## [2.0.1] - 2019-11-03
 ### Changed
 - "React Native" to "React or React Native" in [README.md]
@@ -59,6 +65,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Fooxly]: https://www.fooxly.com/
 [pnpm]: https://github.com/pnpm/pnpm
 
+[2.1.0]: https://github.com/Fooxly/babel-preset/compare/v2.0.1...v2.1.0
 [2.0.1]: https://github.com/Fooxly/babel-preset/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/Fooxly/babel-preset/compare/v1.0.3...v2.0.0
 [1.0.3]: https://github.com/Fooxly/babel-preset/compare/v1.0.2...v1.0.3

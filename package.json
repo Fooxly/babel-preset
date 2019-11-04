@@ -1,6 +1,6 @@
 {
   "name": "@fooxly/babel-preset",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "The default Babel preset for Fooxly projects.",
   "keywords": [
     "fooxly",
@@ -12,6 +12,9 @@
     "module",
     "resolver",
     "plugin",
+    "export",
+    "default",
+    "from",
     "src"
   ],
   "author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com)",
@@ -34,6 +37,7 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-export-default-from": "^7.5.2",
     "@babel/plugin-proposal-optional-chaining": "^7.6.0",
     "@babel/preset-env": "^7.6.3",
     "babel-plugin-module-resolver": "^3.2.0",

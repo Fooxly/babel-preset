@@ -9,6 +9,16 @@ require("core-js/modules/es.promise");
 
 require("core-js/modules/web.timers");
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+Object.defineProperty(exports, "testExportFrom", {
+  enumerable: true,
+  get: function get() {
+    return _test["default"];
+  }
+});
+
 require("regenerator-runtime/runtime");
 
 var _test = _interopRequireDefault(require("./src/components/test"));

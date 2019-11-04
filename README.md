@@ -11,6 +11,7 @@ The default [Babel](https://babeljs.io/) preset for [Fooxly](https://www.fooxly.
 - [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)
 - [@babel/plugin-proposal-class-properties](https://www.npmjs.com/package/@babel/plugin-proposal-class-properties)
 - [@babel/plugin-proposal-optional-chaining](https://www.npmjs.com/package/@babel/plugin-proposal-optional-chaining)
+- [@babel/plugin-proposal-export-default-from](https://www.npmjs.com/package/@babel/plugin-proposal-export-default-from)
 - [babel-plugin-module-resolver](https://www.npmjs.com/package/babel-plugin-module-resolver) (configured for all `.js`, `.jsx` & `.json` files in `./src`)
 
 ## :heart:&nbsp; Support us

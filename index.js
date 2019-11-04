@@ -1,6 +1,7 @@
 var envPreset = require('@babel/preset-env')
 var classProperties = require('@babel/plugin-proposal-class-properties')
 var optionalChaining = require('@babel/plugin-proposal-optional-chaining')
+var exportFrom = require('@babel/plugin-proposal-export-default-from')
 var moduleResolver = require('babel-plugin-module-resolver')
 
 module.exports = function (api) {
@@ -11,6 +12,7 @@ module.exports = function (api) {
       useBuiltIns: 'usage'
     }]],
     plugins: [
+      exportFrom,
       classProperties,
       optionalChaining,
       [moduleResolver, {
