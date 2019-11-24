@@ -19,6 +19,12 @@ module.exports = function (api) {
         root: ['./src'],
         extensions: ['.js', '.jsx', '.json']
       }]
-    ]
+    ],
+    env: {
+      production: {
+        compact: true,
+        sourceMaps: false
+      }
+    }
   }
 }
