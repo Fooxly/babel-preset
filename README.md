@@ -3,6 +3,8 @@
 The default [Babel](https://babeljs.io/) preset for [Fooxly](https://www.fooxly.com) projects.
 
 [![npm version](https://img.shields.io/npm/v/@fooxly/babel-preset.svg?style=flat)](https://www.npmjs.com/package/@fooxly/babel-preset)
+[![downloads](https://img.shields.io/npm/dt/@fooxly/babel-preset.svg)](https://www.npmjs.com/package/@fooxly/babel-preset)
+[![ci status](https://github.com/Fooxly/babel-preset/workflows/tests/badge.svg)](https://github.com/Fooxly/babel-preset/actions?query=workflow%3Atests)
 
 ## :rocket:&nbsp; Powered By
 
